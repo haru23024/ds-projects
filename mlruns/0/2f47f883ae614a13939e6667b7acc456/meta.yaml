@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/0/2f47f883ae614a13939e6667b7acc456/artifacts
+end_time: 1752542356905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2f47f883ae614a13939e6667b7acc456
+run_uuid: 2f47f883ae614a13939e6667b7acc456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542356852
+status: 3
+tags: []
+user_id: yuto

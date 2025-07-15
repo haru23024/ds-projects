@@ -122,7 +122,7 @@ def main(cfg: DictConfig):
 
     # 5. Run simple simulation using alpha
     alpha = float(cfg.alpha)
-    data = np.linspace(0, 1, 11) * alpha
+    data = np.linspace(0, 1, 11) * alpha * 2
     h5_path = out_dir / "result.h5"
     with h5py.File(h5_path, "w") as f:
         f.create_dataset("array", data=data)
