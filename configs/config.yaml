@@ -1,0 +1,3 @@
+---
+alpha: 0.5
+run_id: ${uuid:8} # generate a hash and take the first 8 letters
